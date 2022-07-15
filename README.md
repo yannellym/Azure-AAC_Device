@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/8VNS16lrTj0PQMMFgt/giphy.gif" alt="Polly" />
 <img src="https://media.giphy.com/media/AT4xzrpUgibYhdFRWj/giphy.gif" alt="Polly" height="300%" /> <br/>
-
+<img width="482" alt="Screen Shot 2022-07-15 at 8 39 35 AM" src="https://user-images.githubusercontent.com/91508647/179228457-98fedd7b-267c-4be5-8b31-18c5f75a84bd.png">
 
 # Overview
 
@@ -34,8 +34,12 @@ Polly is an augmentative and alternative communication (AAC) device for individu
 ### Information on AAC Devices: https://www.aphasia.com/aac-devices/what-is-an-aac-device/ <br/>
 ### Information on Austim: https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd#:~:text=Autism%20spectrum%20disorder%20(ASD)%20is,first%20two%20years%20of%20life.<br/>
 
+## Photos of Liam using the app
+<img width="482" alt="Screen Shot 2022-07-15 at 8 39 35 AM" src="https://user-images.githubusercontent.com/91508647/179227857-a4cacac5-2ed4-4ed0-8f0f-d917f796d81f.png">
+<img width="675" alt="Screen Shot 2022-07-15 at 8 38 57 AM" src="https://user-images.githubusercontent.com/91508647/179227853-914939f1-427c-4ea3-a020-bba8a55c51e5.png">
+
 ### Lesson Learned
-After hacing created this project, I learned how to use AWS Polly, and Azure text-to-speech. I also practiced using firebase and reading through all of the functions they have available. I really enjoyed designing the wireframes for the project. I also enjoyed doing research on people with Austim and how to design to their needs. The most difficult part was working with Azure for the first time. Azure had some difficulties working across browsers. Lastly, Sortable JS was also a bit difficult at times. However, I was able to figure it out after reading the documentation and doing trials. 
+After having created this project, I learned how to use AWS Polly, and Azure text-to-speech. I also practiced using firebase and reading through all of the functions they have available. I really enjoyed designing the wireframes for the project. I also enjoyed doing research on people with Austim and how to design to their needs. The most difficult part was working with Azure for the first time. Azure had some difficulties working across browsers. Lastly, Sortable JS was also a bit difficult at times. However, I was able to figure it out after reading the documentation and doing trials. 
 
 ### Roles:
 This project was developed by two people: Luis Brito, and Yannelly Mercado(Myself). Both developers were involved in the design, development, and testing of the project. 
